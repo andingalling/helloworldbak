@@ -1,4 +1,0 @@
-Checking Slack
-+ Testing Trello
-++
-Sample for testing github integration for auto commit
