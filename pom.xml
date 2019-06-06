@@ -12,7 +12,6 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
-<<<<<<< HEAD
  <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -21,9 +20,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-=======
-
->>>>>>> 733d7c2dbad1d7031ec93760160bf07903b09f46
     <build>
         <plugins>
             <plugin>
